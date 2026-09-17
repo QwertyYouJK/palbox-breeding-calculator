@@ -1,0 +1,902 @@
+[
+    {
+        "aegidron.png": "184.0"
+    },
+    {
+        "amione.png": "47.0"
+    },
+    {
+        "anubis.png": "139.0"
+    },
+    {
+        "arsox.png": "58.0"
+    },
+    {
+        "astegon.png": "158.0"
+    },
+    {
+        "astralym.png": "204.0"
+    },
+    {
+        "astralym2.png": "204.0"
+    },
+    {
+        "azurmane.png": "161.0"
+    },
+    {
+        "azurobe.png": "41.0"
+    },
+    {
+        "azurobe_cryst.png": "41.1"
+    },
+    {
+        "bakemi.png": "168.0"
+    },
+    {
+        "bastigor.png": "191.0"
+    },
+    {
+        "beakon.png": "96.0"
+    },
+    {
+        "beakon_cryst.png": "96.1"
+    },
+    {
+        "beegarde.png": "67.0"
+    },
+    {
+        "bellanoir.png": "195.0"
+    },
+    {
+        "bellanoir_libero.png": "195.1"
+    },
+    {
+        "blazamat.png": "137.0"
+    },
+    {
+        "blazamat_ryu.png": "137.1"
+    },
+    {
+        "blazehowl.png": "112.0"
+    },
+    {
+        "blazehowl_noct.png": "112.1"
+    },
+    {
+        "blue_slime.png": "M2"
+    },
+    {
+        "bolldosu.png": "156.0"
+    },
+    {
+        "braloha.png": "110.0"
+    },
+    {
+        "bristla.png": "60.0"
+    },
+    {
+        "broncherry.png": "108.0"
+    },
+    {
+        "broncherry_aqua.png": "108.1"
+    },
+    {
+        "bushi.png": "85.0"
+    },
+    {
+        "bushi_noct.png": "85.1"
+    },
+    {
+        "caprity.png": "34.0"
+    },
+    {
+        "caprity_noct.png": "34.1"
+    },
+    {
+        "carnibora.png": "136.0"
+    },
+    {
+        "cattiva.png": "2.0"
+    },
+    {
+        "cave_bat.png": "M8"
+    },
+    {
+        "cawgnito.png": "57.0"
+    },
+    {
+        "celeray.png": "7.0"
+    },
+    {
+        "celeray_lux.png": "7.1"
+    },
+    {
+        "celesdir.png": "157.0"
+    },
+    {
+        "celesdir_noct.png": "157.1"
+    },
+    {
+        "chikipi.png": "3.0"
+    },
+    {
+        "chillet.png": "103.0"
+    },
+    {
+        "chillet_ignis.png": "103.1"
+    },
+    {
+        "cinnamoth.png": "61.0"
+    },
+    {
+        "clovee.png": "14.0"
+    },
+    {
+        "cremis.png": "8.0"
+    },
+    {
+        "croajiro.png": "9.0"
+    },
+    {
+        "croajiro_noct.png": "9.1"
+    },
+    {
+        "cryolinx.png": "132.0"
+    },
+    {
+        "cryolinx_terra.png": "132.1"
+    },
+    {
+        "daedream.png": "22.0"
+    },
+    {
+        "dandilord.png": "194.0"
+    },
+    {
+        "dazemu.png": "123.0"
+    },
+    {
+        "dazzi.png": "92.0"
+    },
+    {
+        "dazzi_noct.png": "92.1"
+    },
+    {
+        "demon_eye.png": "M9"
+    },
+    {
+        "depresso.png": "16.0"
+    },
+    {
+        "digtoise.png": "107.0"
+    },
+    {
+        "dinossom.png": "84.0"
+    },
+    {
+        "dinossom_lux.png": "84.1"
+    },
+    {
+        "direhowl.png": "33.0"
+    },
+    {
+        "dogen.png": "155.0"
+    },
+    {
+        "dualith.png": "138.0"
+    },
+    {
+        "dualith_noct.png": "138.1"
+    },
+    {
+        "dumud gild.png": "109.1"
+    },
+    {
+        "dumud.png": "109.0"
+    },
+    {
+        "dupin.png": "176.0"
+    },
+    {
+        "dynamoff.png": "172.0"
+    },
+    {
+        "eidolon.png": "171.0"
+    },
+    {
+        "eidrolon_ignis.png": "171.1"
+    },
+    {
+        "eikthyrdeer.png": "32.0"
+    },
+    {
+        "eikthyrdeer_terra.png": "32.1"
+    },
+    {
+        "elgrove.png": "81.0"
+    },
+    {
+        "elgrove_cryst.png": "81.1"
+    },
+    {
+        "elizabee.png": "68.0"
+    },
+    {
+        "elphidran.png": "63.0"
+    },
+    {
+        "elphidran_aqua.png": "63.1"
+    },
+    {
+        "enchanted_sword.png": "M10"
+    },
+    {
+        "eye_of_cthulhu.png": "M11"
+    },
+    {
+        "faleris.png": "188.0"
+    },
+    {
+        "faleris_aqua.png": "188.1"
+    },
+    {
+        "felbat.png": "65.0"
+    },
+    {
+        "fenglope.png": "83.0"
+    },
+    {
+        "fenglope_lux.png": "83.1"
+    },
+    {
+        "finsider.png": "88.0"
+    },
+    {
+        "finsider_ignis.png": "88.1"
+    },
+    {
+        "flambelle.png": "25.0"
+    },
+    {
+        "flaracle.png": "174.0"
+    },
+    {
+        "flopie.png": "77.0"
+    },
+    {
+        "foxcicle.png": "95.0"
+    },
+    {
+        "foxparks.png": "29.0"
+    },
+    {
+        "foxparks_cryst.png": "29.1"
+    },
+    {
+        "frostallion.png": "200.0"
+    },
+    {
+        "frostallion_noct.png": "200.1"
+    },
+    {
+        "frostplume.png": "114.0"
+    },
+    {
+        "fuack.png": "5.0"
+    },
+    {
+        "fuack_ignis.png": "5.1"
+    },
+    {
+        "fuddler.png": "31.0"
+    },
+    {
+        "galeclaw.png": "49.0"
+    },
+    {
+        "ghangler.png": "97.0"
+    },
+    {
+        "ghangler_ignis.png": "97.1"
+    },
+    {
+        "gildane.png": "154.0"
+    },
+    {
+        "gildra.png": "120.0"
+    },
+    {
+        "gloopie.png": "48.0"
+    },
+    {
+        "gloopie_primo.png": "48.1"
+    },
+    {
+        "gobfin.png": "55.0"
+    },
+    {
+        "gobfin_ignis.png": "55.1"
+    },
+    {
+        "gorirat.png": "74.0"
+    },
+    {
+        "gorirat_terra.png": "74.1"
+    },
+    {
+        "green_slime.png": "M1"
+    },
+    {
+        "grintale.png": "70.0"
+    },
+    {
+        "grizzbolt.png": "185.0"
+    },
+    {
+        "gumoss.png": "12.0"
+    },
+    {
+        "hangyu.png": "38.0"
+    },
+    {
+        "hangyu_cryst.png": "38.1"
+    },
+    {
+        "hartalis.png": "197.0"
+    },
+    {
+        "helzephyr.png": "80.0"
+    },
+    {
+        "helzephyr_lux.png": "80.1"
+    },
+    {
+        "herbil.png": "10.0"
+    },
+    {
+        "hoocrates.png": "19.0"
+    },
+    {
+        "hoodle.png": "166.0"
+    },
+    {
+        "icelyn.png": "119.0"
+    },
+    {
+        "illuminant_bat.png": "M7"
+    },
+    {
+        "illuminant_slime.png": "M5"
+    },
+    {
+        "incineram.png": "91.0"
+    },
+    {
+        "incineram_noct.png": "91.1"
+    },
+    {
+        "jelliette.png": "45.0"
+    },
+    {
+        "jellroy.png": "46.0"
+    },
+    {
+        "jetragon.png": "202.0"
+    },
+    {
+        "jolthog.png": "15.0"
+    },
+    {
+        "jolthog_cryst.png": "15.1"
+    },
+    {
+        "jormuntide.png": "121.0"
+    },
+    {
+        "jormuntide_ignis.png": "121.1"
+    },
+    {
+        "katress.png": "79.0"
+    },
+    {
+        "katress_ignis.png": "79.1"
+    },
+    {
+        "kelpsea.png": "43.0"
+    },
+    {
+        "kelpsea_ignis.png": "43.1"
+    },
+    {
+        "kikit.png": "126.0"
+    },
+    {
+        "killamari.png": "30.0"
+    },
+    {
+        "killamari_primo.png": "30.1"
+    },
+    {
+        "kingpaca.png": "21.0"
+    },
+    {
+        "kingpaca_cryst.png": "21.1"
+    },
+    {
+        "kitsun.png": "111.0"
+    },
+    {
+        "kitsun_noct.png": "111.1"
+    },
+    {
+        "knocklem.png": "159.0"
+    },
+    {
+        "knocklem_ignis.png": "159.1"
+    },
+    {
+        "lamball.png": "1.0"
+    },
+    {
+        "lapiron.png": "165.0"
+    },
+    {
+        "lapure.png": "170.0"
+    },
+    {
+        "leafan.png": "90.0"
+    },
+    {
+        "leezpunk.png": "73.0"
+    },
+    {
+        "leezpunk_ignis.png": "73.1"
+    },
+    {
+        "lifmunk.png": "4.0"
+    },
+    {
+        "loomen.png": "180.0"
+    },
+    {
+        "loupmoon.png": "56.0"
+    },
+    {
+        "loupmoon_cryst.png": "56.1"
+    },
+    {
+        "lovander.png": "69.0"
+    },
+    {
+        "lullu.png": "125.0"
+    },
+    {
+        "lunaris.png": "82.0"
+    },
+    {
+        "lyleen.png": "186.0"
+    },
+    {
+        "lyleen_noct.png": "186.1"
+    },
+    {
+        "majex.png": "115.0"
+    },
+    {
+        "mammorest.png": "87.0"
+    },
+    {
+        "mammorest_cryst.png": "87.1"
+    },
+    {
+        "maraith.png": "117.0"
+    },
+    {
+        "mau.png": "27.0"
+    },
+    {
+        "mau_cryst.png": "27.1"
+    },
+    {
+        "melpaca.png": "20.0"
+    },
+    {
+        "menasting.png": "99.0"
+    },
+    {
+        "menasting_terra.png": "99.1"
+    },
+    {
+        "mimog.png": "144.0"
+    },
+    {
+        "moldron.png": "105.0"
+    },
+    {
+        "moldron_cryst.png": "105.1"
+    },
+    {
+        "mossanda.png": "102.0"
+    },
+    {
+        "mossanda_lux.png": "102.1"
+    },
+    {
+        "mozzarina.png": "40.0"
+    },
+    {
+        "muffly.png": "59.0"
+    },
+    {
+        "munchill.png": "86.0"
+    },
+    {
+        "mycora.png": "179.0"
+    },
+    {
+        "necromus.png": "199.0"
+    },
+    {
+        "needoll.png": "100.0"
+    },
+    {
+        "needoll_noct.png": "100.1"
+    },
+    {
+        "neptilius.png": "201.0"
+    },
+    {
+        "nitemary.png": "148.0"
+    },
+    {
+        "nitemary_botan.png": "148.1"
+    },
+    {
+        "nitewing.png": "51.0"
+    },
+    {
+        "nox.png": "24.0"
+    },
+    {
+        "nyafia.png": "143.0"
+    },
+    {
+        "omascul.png": "150.0"
+    },
+    {
+        "ophydia.png": "175.0"
+    },
+    {
+        "orserk.png": "187.0"
+    },
+    {
+        "paladius.png": "198.0"
+    },
+    {
+        "palumba.png": "106.0"
+    },
+    {
+        "panthalus.png": "203.0"
+    },
+    {
+        "pengullet.png": "17.0"
+    },
+    {
+        "pengullet_lux.png": "17.1"
+    },
+    {
+        "penking.png": "18.0"
+    },
+    {
+        "penking_lux.png": "18.1"
+    },
+    {
+        "petallia.png": "89.0"
+    },
+    {
+        "petallia_ignis.png": "89.1"
+    },
+    {
+        "pierdon.png": "131.0"
+    },
+    {
+        "pierdon_cryst.png": "131.1"
+    },
+    {
+        "polapup.png": "72.0"
+    },
+    {
+        "polapup_terra.png": "72.1"
+    },
+    {
+        "prixter.png": "141.0"
+    },
+    {
+        "prixter_lux.png": "141.1"
+    },
+    {
+        "prunelia.png": "147.0"
+    },
+    {
+        "puffolt.png": "62.0"
+    },
+    {
+        "pupperai.png": "13.0"
+    },
+    {
+        "purple_slime.png": "M4"
+    },
+    {
+        "pyrin.png": "93.0"
+    },
+    {
+        "pyrin_noct.png": "93.1"
+    },
+    {
+        "quivern.png": "124.0"
+    },
+    {
+        "quivern_botan.png": "124.1"
+    },
+    {
+        "ragnahawk.png": "104.0"
+    },
+    {
+        "rainbow_slime.png": "M6"
+    },
+    {
+        "rayhound.png": "98.0"
+    },
+    {
+        "rayhound_cryst.png": "98.1"
+    },
+    {
+        "red_slime.png": "M3"
+    },
+    {
+        "reindrix.png": "101.0"
+    },
+    {
+        "relaxaurus.png": "94.0"
+    },
+    {
+        "relaxaurus_lux.png": "94.1"
+    },
+    {
+        "renjishi.png": "183.0"
+    },
+    {
+        "reptyro.png": "129.0"
+    },
+    {
+        "reptyro_cryst.png": "129.1"
+    },
+    {
+        "ribbuny.png": "44.0"
+    },
+    {
+        "ribbuny_botan.png": "44.1"
+    },
+    {
+        "robinquill.png": "76.0"
+    },
+    {
+        "robinquill_terra.png": "76.1"
+    },
+    {
+        "rooby.png": "26.0"
+    },
+    {
+        "roujay.png": "177.0"
+    },
+    {
+        "rushoar.png": "28.0"
+    },
+    {
+        "sekhmet.png": "140.0"
+    },
+    {
+        "selyne.png": "190.0"
+    },
+    {
+        "shadowbeak.png": "189.0"
+    },
+    {
+        "shaolong.png": "192.0"
+    },
+    {
+        "shroomer.png": "118.0"
+    },
+    {
+        "shroomer_noct.png": "118.1"
+    },
+    {
+        "sibelyx.png": "116.0"
+    },
+    {
+        "sibelyx_primo.png": "116.1"
+    },
+    {
+        "silvance.png": "193.0"
+    },
+    {
+        "silvegis.png": "160.0"
+    },
+    {
+        "skutlass.png": "128.0"
+    },
+    {
+        "skutlass_ignis.png": "128.1"
+    },
+    {
+        "slowatt.png": "167.0"
+    },
+    {
+        "smokie.png": "149.0"
+    },
+    {
+        "smokie_cryst.png": "149.1"
+    },
+    {
+        "snock.png": "163.0"
+    },
+    {
+        "snock_lux.png": "163.1"
+    },
+    {
+        "snugloo.png": "133.0"
+    },
+    {
+        "solenne.png": "182.0"
+    },
+    {
+        "solmora.png": "169.0"
+    },
+    {
+        "solmora_lux.png": "169.1"
+    },
+    {
+        "sootseer.png": "135.0"
+    },
+    {
+        "souffline.png": "164.0"
+    },
+    {
+        "sparkit.png": "42.0"
+    },
+    {
+        "splatterina.png": "153.0"
+    },
+    {
+        "starryon.png": "130.0"
+    },
+    {
+        "starryon_primo.png": "130.1"
+    },
+    {
+        "surfent.png": "75.0"
+    },
+    {
+        "surfent_terra.png": "75.1"
+    },
+    {
+        "suzaku.png": "122.0"
+    },
+    {
+        "suzaku_aqua.png": "122.1"
+    },
+    {
+        "swee.png": "35.0"
+    },
+    {
+        "sweepa.png": "36.0"
+    },
+    {
+        "tanzee.png": "23.0"
+    },
+    {
+        "tanzee_ignis.png": "23.1"
+    },
+    {
+        "tarantriss.png": "71.0"
+    },
+    {
+        "teafant.png": "11.0"
+    },
+    {
+        "tetroise.png": "142.0"
+    },
+    {
+        "tetroise_primo.png": "142.1"
+    },
+    {
+        "tocotoco.png": "53.0"
+    },
+    {
+        "tombat.png": "52.0"
+    },
+    {
+        "tropicaw.png": "173.0"
+    },
+    {
+        "turtacle.png": "37.0"
+    },
+    {
+        "turtacle_terra.png": "37.1"
+    },
+    {
+        "univolt.png": "54.0"
+    },
+    {
+        "univolt_cryst.png": "54.1"
+    },
+    {
+        "vaelet.png": "66.0"
+    },
+    {
+        "valentail.png": "162.0"
+    },
+    {
+        "vanwyrm.png": "64.0"
+    },
+    {
+        "vanwyrm_cryst.png": "64.1"
+    },
+    {
+        "venusa.png": "178.0"
+    },
+    {
+        "verdash.png": "152.0"
+    },
+    {
+        "vixy.png": "6.0"
+    },
+    {
+        "warsect.png": "113.0"
+    },
+    {
+        "warsect_terra.png": "113.1"
+    },
+    {
+        "whalaska.png": "151.0"
+    },
+    {
+        "whalaska_ignis.png": "151.1"
+    },
+    {
+        "wispaw.png": "50.0"
+    },
+    {
+        "wistella.png": "181.0"
+    },
+    {
+        "wixen.png": "78.0"
+    },
+    {
+        "wixen_noct.png": "78.1"
+    },
+    {
+        "woolipop.png": "39.0"
+    },
+    {
+        "woolipop_terra.png": "39.1"
+    },
+    {
+        "wumpo.png": "134.0"
+    },
+    {
+        "wumpo_botan.png": "134.1"
+    },
+    {
+        "xenogard.png": "146.0"
+    },
+    {
+        "xenolord.png": "196.0"
+    },
+    {
+        "xenovader.png": "145.0"
+    },
+    {
+        "yakumo.png": "127.0"
+    }
+]
